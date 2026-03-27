@@ -1,6 +1,6 @@
 <!--# Hi, I'm Yiwei Zhang ;)-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=lines=Hi+there!+I'm+Yiwei+Zhang;CSAI+Student+%26+Robotics+Enthusiast;C,+Python,+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Yiwei+Zhang;CSAI+Student+%26+Robotics+Enthusiast;C,+Python,+Java+Developer" alt="Typing SVG" />
 </div>
 
 </br>
